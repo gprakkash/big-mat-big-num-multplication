@@ -1,8 +1,8 @@
-# Large Matrix with Large Number Multiplication Tool
+# Large Matrix with Large Number Multiplication Library
 
-### Details
-1. **large_multi_brute_force.py** and **large_number_mult_test.py**: Brute Force Large Number Multiplication
-2. **karatsuba-co.py**: Large Number Multiplication Karatsuba
-3. **matrix_mult_brute_force.py**: Brute Force Matrix Multiplication
-4. **matrix_mult_strassen_adjacency_matrix.py**: Strassen Matrix Multiplication with data structure as Adjacency matrix
-5. **matrix_mult_strassen_co.py**: Strassen Matrix Multiplication with data structure as CO.
+### Components
+- Brute Force Large Number Multiplication
+- Large Number Multiplication with Karatsuba
+- Brute Force Matrix Multiplication
+- Strassen Matrix Multiplication with Adjacency matrix as data structure
+- Strassen Matrix Multiplication with CO as data structure
